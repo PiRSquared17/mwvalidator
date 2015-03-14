@@ -1,0 +1,3 @@
+Downloads moved here: https://github.com/JeroenDeDauw/Validator/tags
+
+Validator is s small library that allows MediaWiki extensions to specify parameters in a declarative fashion and have them processed by Validator. This makes development easier, quicker and more maintainable. Furthermore, the declarative approach makes it possible to do all kind of fancy things such as automatic documentation generation, display of more meaningful error/warning messages, automatic creation of input interfaces, ect.
